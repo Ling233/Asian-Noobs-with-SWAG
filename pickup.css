@@ -8,26 +8,19 @@ h2{
 	font-size:50px;
 	font-family: 'Verdana', serif;
 }
-<<<<<<< HEAD
  body{
  	background-color:#EEEEEE;
  }
-=======
 h3{
 	color: #C70039;
 	font-size: 50px;
 	font-family: 'Verdana', serif;
 }
 li {
-  color: #C0C0C0; /* bullet color */
+  color: #C0C0C0;
 }
 li span {
-  color: #87CEEB; /* text color */
-}
-
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
+  color: #87CEEB; 
 h4{
 	color: #FF5733;
 	font-size: 50px;
@@ -38,4 +31,4 @@ h5{
 	font-size: 50px;
 	font-family: 'Verdana', serif;
 }
->>>>>>> origin/master
+
