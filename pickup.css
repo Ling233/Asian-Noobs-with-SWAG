@@ -8,19 +8,13 @@ h2{
 	font-size:50px;
 	font-family: 'Verdana', serif;
 }
-<<<<<<< HEAD
- body{
- 	background-color:#EEEEEE;
- }
-=======
+
 h3{
 	color: #C70039;
 	font-size: 50px;
 	font-family: 'Verdana', serif;
 }
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
+
 h4{
 	color: #FF5733;
 	font-size: 50px;
@@ -31,4 +25,7 @@ h5{
 	font-size: 50px;
 	font-family: 'Verdana', serif;
 }
->>>>>>> origin/master
+img{
+	width: 80%;
+	margin-left: 10px;
+}
