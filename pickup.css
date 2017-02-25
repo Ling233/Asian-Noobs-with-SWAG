@@ -32,3 +32,9 @@ h5{
 	font-family: 'Verdana', serif;
 }
 >>>>>>> origin/master
+li {
+  color: #C0C0C0; /* bullet color */
+}
+li span {
+  color: #87CEEB; /* text color */
+}
