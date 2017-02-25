@@ -8,7 +8,6 @@ h2{
 	font-size:50px;
 	font-family: 'Verdana', serif;
 }
-<<<<<<< HEAD
  body{
  	background-color:#EEEEEE;
  }
@@ -18,12 +17,16 @@ h3{
 	font-family: 'Verdana', serif;
 }
 li {
-  color: #C0C0C0; /* bullet color */
+  color: #C0C0C0;
 }
 li span {
+<<<<<<< HEAD
   color: #434343; /* text color */
 }
 
+=======
+  color: #87CEEB; 
+>>>>>>> origin/master
 h4{
 	color: #FF5733;
 	font-size: 50px;
