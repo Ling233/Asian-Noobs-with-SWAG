@@ -1,6 +1,15 @@
 h2{
 	color: #FA8072;
-	font-size: 90px;
-	font-family: 'Comic Sans', serif;
+	font-size: 65px;
+	font-family: 'Verdana', serif;
 }
-
+h3{
+	color: #900C3F;
+	font-size: 65px;
+	font-family: 'Verdana', serif;
+}
+h4{
+	color: #C70039;
+	font-size: 65px;
+	font-family: 'Verdana', serif;
+}
