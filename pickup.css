@@ -8,9 +8,11 @@ h2{
 	font-size:50px;
 	font-family: 'Verdana', serif;
 }
+<<<<<<< HEAD
  body{
  	background-color:#EEEEEE;
  }
+=======
 h3{
 	color: #C70039;
 	font-size: 50px;
@@ -18,11 +20,20 @@ h3{
 }
 
 li {
-  color: #C0C0C0;
+  color: #C0C0C0; /* bullet color */
 }
 li span {
+<<<<<<< HEAD
   color: #87CEEB; 
 
+=======
+  color: #87CEEB; /* text color */
+}
+
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
 h4{
 	color: #FF5733;
 	font-size: 50px;
@@ -33,8 +44,12 @@ h5{
 	font-size: 50px;
 	font-family: 'Verdana', serif;
 }
+<<<<<<< HEAD
 img{
 	width: 80%;
 	margin-left: 10px;
 }
 
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
