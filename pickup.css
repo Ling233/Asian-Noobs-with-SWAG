@@ -18,6 +18,13 @@ h3{
 	font-size: 50px;
 	font-family: 'Verdana', serif;
 }
+li {
+  color: #C0C0C0; /* bullet color */
+}
+li span {
+  color: #87CEEB; /* text color */
+}
+
 <<<<<<< HEAD
 >>>>>>> origin/master
 =======
@@ -32,9 +39,3 @@ h5{
 	font-family: 'Verdana', serif;
 }
 >>>>>>> origin/master
-li {
-  color: #C0C0C0; /* bullet color */
-}
-li span {
-  color: #87CEEB; /* text color */
-}
