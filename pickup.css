@@ -1,6 +1,34 @@
-h2{
+h1{
 	color: #FA8072;
-	font-size: 90px;
-	font-family: 'Comic Sans', serif;
+	font-size: 50px;
+	font-family: 'Verdana', serif;
 }
-
+h2{
+	color: #900C3F;
+	font-size:50px;
+	font-family: 'Verdana', serif;
+}
+<<<<<<< HEAD
+ body{
+ 	background-color:#EEEEEE;
+ }
+=======
+h3{
+	color: #C70039;
+	font-size: 50px;
+	font-family: 'Verdana', serif;
+}
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+h4{
+	color: #FF5733;
+	font-size: 50px;
+	font-family: 'Verdana', serif;
+}
+h5{
+	color: #FFC300;
+	font-size: 50px;
+	font-family: 'Verdana', serif;
+}
+>>>>>>> origin/master
