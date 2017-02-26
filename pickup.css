@@ -36,10 +36,10 @@ h3{
 
 li {
   color: #DDA0DD; /* bullet color */
+  margin-left: 5%;
 }
 li span {
-
-
+  margin-left: 5%;
   color: #DDA0DD; /* text color */
 }
 
